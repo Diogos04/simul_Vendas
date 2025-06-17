@@ -6,7 +6,7 @@ body {
 }
 
 main {
-  max-width: 500px;
+  max-width: 600px;
   margin: 40px auto;
   padding: 20px;
   background-color: #ffffff;
@@ -53,5 +53,5 @@ button:hover {
   font-size: 1.1em;
   padding: 10px;
   background-color: #e8f0fe;
-  border-left: 5px solid #004080;
+  border-left: 5px solid #006d80;
 }
